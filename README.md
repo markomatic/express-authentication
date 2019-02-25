@@ -1,6 +1,6 @@
 # @markomatic/express-authentication
 
-Library that exports easier authentication for express.
+Just another authentication library for express.
 
 ## Install
 
